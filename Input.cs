@@ -26,11 +26,10 @@ public class Input
             if(keyTimers.ContainsKey(key))
                 return;
 
-            var timer = new System.Timers.Timer(500);
+            var timer = new System.Timers.Timer(2000);
             timer.Elapsed += (s, a) => OnKeyHeld(key);
-            timer.Start();
-
             keyTimers[key] = timer;
+            timer.Start();
 
             Console.WriteLine($"Key pressed {key}");
             OnKeyPressed?.Invoke(key);

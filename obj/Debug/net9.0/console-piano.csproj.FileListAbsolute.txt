@@ -31,3 +31,4 @@ c:\Users\pjmat\Projects\csharp\console-piano\bin\Debug\net9.0\runtimes\win-x64\n
 c:\Users\pjmat\Projects\csharp\console-piano\bin\Debug\net9.0\runtimes\win-x86\native\uiohook.dll
 c:\Users\pjmat\Projects\csharp\console-piano\obj\Debug\net9.0\console-piano.csproj.AssemblyReference.cache
 c:\Users\pjmat\Projects\csharp\console-piano\obj\Debug\net9.0\console-.1F09AEDD.Up2Date
+c:\Users\pjmat\Projects\csharp\console-piano\obj\Debug\net9.0\console-piano.sourcelink.json

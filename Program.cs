@@ -6,12 +6,15 @@ public class Program
     static Input input;
     static Piano piano;
 
+    static List<string> playedNotes = new();
+
     private static void Main(string[] args)
     {
         input = new Input();
         piano = new Piano();
 
         input.OnKeyPressed += OnPressedKey;
+        input.OnKeyReleased += OnKeyReleased;
         input.Start();
     }
 
@@ -19,7 +22,17 @@ public class Program
     {
         if(key == "A")
         {
-            piano.PlayNote(440, 1000);
+            playedNotes.Add(key);
+            piano.PlayNote(261);
+        }
+    }
+
+    public static void OnKeyReleased(string key)
+    {
+        if(playedNotes.Contains(key))
+        {
+            piano.StopNote();
+            playedNotes.Remove(key);
         }
     }
 }

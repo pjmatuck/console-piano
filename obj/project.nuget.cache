@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1JKOz1I9I/Q=",
+  "dgSpecHash": "9FFvHSGWZCE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
+  "projectFilePath": "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pjmat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\pjmat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

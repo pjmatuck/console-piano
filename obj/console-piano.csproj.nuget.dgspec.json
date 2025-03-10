@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj": {}
+    "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj": {
+    "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
+        "projectUniqueName": "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
         "projectName": "console-piano",
-        "projectPath": "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
+        "projectPath": "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\console-piano.csproj",
         "packagesPath": "C:\\Users\\pjmat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pjmat\\Projects\\csharp\\console-piano\\obj\\",
+        "outputPath": "C:\\Users\\pjmat\\Projects\\csharp\\console-piano\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pjmat\\AppData\\Roaming\\NuGet\\NuGet.Config"
